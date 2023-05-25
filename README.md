@@ -1,2 +1,2 @@
 # llm-finetune
-Finetuning based on LiRA
+Finetuning based on LIMA
