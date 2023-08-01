@@ -1,2 +1,2 @@
 # llm-finetune
-Finetuning based on LIMA
+Finetuning LLMs for tool API usage
