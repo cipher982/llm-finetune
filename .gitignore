@@ -1,0 +1,7 @@
+*wandb*
+data/*
+notebooks/outputs/*
+notebooks/results/*
+notebooks/trained/*
+*__pycache__*
+.vscode
