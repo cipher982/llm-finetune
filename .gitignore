@@ -3,5 +3,6 @@ data/*
 notebooks/outputs/*
 notebooks/results/*
 notebooks/trained/*
+notebooks/resized/*
 *__pycache__*
 .vscode
